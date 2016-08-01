@@ -1,0 +1,33 @@
+{
+  "name": "phoenix_react_redux_example",
+  "version": "1.0.0",
+  "description": "Example on using React Redux with Elixir Phoenix",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davelively14/phoenix_react_redux_example.git"
+  },
+  "author": "Dave Lively",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davelively14/phoenix_react_redux_example/issues"
+  },
+  "homepage": "https://github.com/davelively14/phoenix_react_redux_example#readme",
+  "dependencies": {
+    "react": "^15.3.0",
+    "react-redux": "^4.4.5",
+    "redux": "^3.5.2"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.11.4",
+    "babel-preset-es2015": "^6.9.0",
+    "babel-preset-react": "^6.11.1",
+    "webpack": "^1.13.1"
+  }
+}

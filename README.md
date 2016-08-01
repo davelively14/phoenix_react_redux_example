@@ -9,10 +9,19 @@ Now you can visit [`localhost:4000`](http://localhost:4000) from your browser.
 
 Ready to run in production? Please [check our deployment guides](http://www.phoenixframework.org/docs/deployment).
 
-## Learn more
+## Node packages
 
-  * Official website: http://www.phoenixframework.org/
-  * Guides: http://phoenixframework.org/docs/overview
-  * Docs: https://hexdocs.pm/phoenix
-  * Mailing list: http://groups.google.com/group/phoenix-talk
-  * Source: https://github.com/phoenixframework/phoenix
+- react
+  - `npm install --save react`
+- redux
+  - `npm install --save redux`
+- react-redux
+  - `npm install --save react-redux`
+- babel-cli
+  - `npm install --save-dev babel-cli`
+- babel-preset-es2015
+  - `npm install --save-dev babel-preset-es2015`
+- babel-preset-react
+  - `npm install --save-dev babel-preset-react`
+- webpack
+  - `npm install --save-dev webpack`
