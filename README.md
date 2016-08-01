@@ -13,6 +13,8 @@ Ready to run in production? Please [check our deployment guides](http://www.phoe
 
 - react
   - `npm install --save react`
+- react-dom
+  - `npm install --save-dev react-dom`
 - redux
   - `npm install --save redux`
 - react-redux
